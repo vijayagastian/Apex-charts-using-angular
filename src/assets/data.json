@@ -1,0 +1,183 @@
+{
+    "api_status": true,
+    "data": [
+        {
+            "question_id": 21,
+            "question_text": "What is the capital of India",
+            "contain_choices": 1,
+            "choices": [
+                {
+                    "choice_id": 44,
+                    "choice_text": "Delhi",
+                    "choice_count": 0
+                },
+                {
+                    "choice_id": 45,
+                    "choice_text": "New Delhi",
+                    "choice_count": 1
+                },
+                {
+                    "choice_id": 46,
+                    "choice_text": "Both Delhi and New Delhi",
+                    "choice_count": 2
+                }
+            ]
+        },
+        {
+            "question_id": 22,
+            "question_text": "What is your name",
+            "contain_choices": 0,
+            "choices": []
+        },
+        {
+            "question_id": 23,
+            "question_text": "what is your fav sport",
+            "contain_choices": 1,
+            "choices": [
+                {
+                    "choice_id": 47,
+                    "choice_text": "Cricket",
+                    "choice_count": 0
+                },
+                {
+                    "choice_id": 48,
+                    "choice_text": "Football",
+                    "choice_count": 1
+                },
+                {
+                    "choice_id": 49,
+                    "choice_text": "Chess",
+                    "choice_count": 0
+                }
+            ]
+        },
+        {
+            "question_id": 25,
+            "question_text": "what is your fav food",
+            "contain_choices": 1,
+            "choices": [
+                {
+                    "choice_id": 47,
+                    "choice_text": "Briyani",
+                    "choice_count": 0
+                },
+                {
+                    "choice_id": 48,
+                    "choice_text": "Chappati",
+                    "choice_count": 3
+                },
+                {
+                    "choice_id": 49,
+                    "choice_text": "Both",
+                    "choice_count": 1
+                },
+                {
+                    "choice_id": 50,
+                    "choice_text": "Neither",
+                    "choice_count": 20
+                }
+            ]
+        },
+        {
+            "question_id": 26,
+            "question_text": "which is your fav place",
+            "contain_choices": 1,
+            "choices": [
+                {
+                    "choice_id": 47,
+                    "choice_text": "chennai",
+                    "choice_count": 1
+                },
+                
+                {
+                    "choice_id": 49,
+                    "choice_text": "Both",
+                    "choice_count": 3
+                },
+                {
+                    "choice_id": 50,
+                    "choice_text": "Neither",
+                    "choice_count": 2
+                }
+            ]
+        },
+        {
+            "question_id": 27,
+            "question_text": "which is your car brand",
+            "contain_choices": 1,
+            "choices": [
+                {
+                    "choice_id": 47,
+                    "choice_text": "Rolles Roys",
+                    "choice_count": 100000
+                },
+                
+                {
+                    "choice_id": 49,
+                    "choice_text": "BMW",
+                    "choice_count": 333333
+                },
+                {
+                    "choice_id": 50,
+                    "choice_text": "Bucati",
+                    "choice_count": 28514
+                },
+                {
+                    "choice_id": 47,
+                    "choice_text": "Audi",
+                    "choice_count": 1051
+                },
+                
+                {
+                    "choice_id": 49,
+                    "choice_text": "Hyundai",
+                    "choice_count": 3568
+                },
+                {
+                    "choice_id": 50,
+                    "choice_text": "Honda",
+                    "choice_count": 21564
+                },
+                {
+                    "choice_id": 47,
+                    "choice_text": "Benz",
+                    "choice_count": 102518
+                },
+                
+                {
+                    "choice_id": 49,
+                    "choice_text": "Ford",
+                    "choice_count": 3546
+                },
+                {
+                    "choice_id": 50,
+                    "choice_text": "Nissan",
+                    "choice_count": 2
+                },
+                
+                {
+                    "choice_id": 49,
+                    "choice_text": "Ford",
+                    "choice_count": 3
+                },
+                {
+                    "choice_id": 50,
+                    "choice_text": "Nissan",
+                    "choice_count": 2
+                },
+                
+                {
+                    "choice_id": 49,
+                    "choice_text": "Ford",
+                    "choice_count": 3
+                },
+                {
+                    "choice_id": 50,
+                    "choice_text": "Nissan",
+                    "choice_count": 2
+                }
+            ]
+        }
+
+    ]
+}
